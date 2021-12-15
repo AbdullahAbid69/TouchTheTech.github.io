@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(181, 102, 255);
+    margin:10px;
+    padding:10px;
+    justify-content: center;
+    align-items: center;
+}
+.anim{
+    margin: 20px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
